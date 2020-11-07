@@ -1,9 +1,11 @@
-### Hi there 👋, hier ist Thurner Mathias
-#### I am a Game Developer / C++ Dev
+## Hi there 👋, hier ist Thurner Mathias
+### I am a Game Developer / C++ Dev
 
-[![Github Badge](https://img.shields.io/badge/-mathh40-grey?style=flat&logo=github&logoColor=white&link=https://github.com/mathh40/)](https://www.github.com/mathh40/)  <p align='left'>Hello,
+<p align='left'>Hello,
 am 28 years old and have been programming for 20 years.
 My interests are games and their development, math, physics, chemistry and friends.</p>
+
+### Skills: C++ / Basic / JAVA / REACT / JS / HTML / CSS
 
 ### 💼 Where i am currently working at/as
 - [MC-Bottle](https://github.com/DJPlaya/MC-Bottle) 💼 
