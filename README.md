@@ -8,7 +8,7 @@ My interests are games and their development, math, physics, chemistry and frien
 ### Skills: C++ / Basic / JAVA / REACT / JS / HTML / CSS
 
 ### 💼 Where i am currently working at/as
-- [MC-Bottle](https://github.com/DJPlaya/MC-Bottle) 💼 
+- [MC-Bottle](https://github.com/mathh40/MC-Bottle) 💼 
 
 ### 📫 Where to find me
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/mathh40)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/mathh401/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/mathh40)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/mathh40)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg' alt='Reddit' height='40'>](https://www.reddit.com/user/mathh40)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg' alt='discord' height='40'>](https://discord.gg/nZDUUJ2)
