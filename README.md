@@ -2,7 +2,7 @@
 ### I am a Game Developer / C++ Dev
 
 <p align='left'>Hello,
-am 28 years old and have been programming for 20 years.
+am 30 years old and have been programming for 20 years.
 My interests are games and their development, math, physics, chemistry and friends.</p>
 
 ### Skills: C++ / Basic / JAVA / REACT / JS / HTML / CSS
